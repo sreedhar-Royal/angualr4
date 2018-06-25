@@ -1,0 +1,52 @@
+.button-row {
+    align-items: center;
+    justify-content: space-around;
+}
+
+.card {
+    width: 90%;
+    /* background: #eee !important; */
+    display: inline-block ;
+}
+
+.each-card {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.grid-tile {
+    background-color: #ddd !important;
+    color: #000 !important;
+}
+
+.icon {
+    font-size: 20px !important;
+    vertical-align: middle !important;
+}
+
+.mat-button {
+    min-width: 0 !important;
+}
+
+.each {
+    margin-bottom: 10px;
+}
+
+.container {
+    margin: 40px;
+}
+
+.example-form-field {
+    width: 100%;
+    margin-top: 20px !important;
+}
+
+.list {
+    margin-bottom: 10px;
+    background-color: #eee;
+}
+
+.list.active {
+    background-color:#ff4081 !important;
+    color: white;
+}
